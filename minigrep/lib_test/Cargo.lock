@@ -5,10 +5,3 @@ version = 4
 [[package]]
 name = "lib_test"
 version = "0.1.0"
-
-[[package]]
-name = "minigrep"
-version = "0.1.0"
-dependencies = [
- "lib_test",
-]

@@ -9,10 +9,10 @@ use minigrep::Config;
 
 fn main() {
     // Reading arguments from the command line
-    let args: Vec<String> = env::args().collect();
-    dbg!(&args);
-
-    let config = Config::build(&args).unwrap_or_else(|err| {
+    // let args: Vec<String> = env::args().collect();
+    // dbg!(&args);
+    //
+    let config = Config::build(env::args()).unwrap_or_else(|err| {
         println!("Problem parsing {err}");
         process::exit(1);
     });
