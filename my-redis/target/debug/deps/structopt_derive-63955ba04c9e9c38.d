@@ -1,0 +1,10 @@
+E:\Rust\Rust Journey\my-redis\target\debug\deps\structopt_derive-63955ba04c9e9c38.dll: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\attrs.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\parse.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\spanned.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\ty.rs
+
+E:\Rust\Rust Journey\my-redis\target\debug\deps\structopt_derive-63955ba04c9e9c38.d: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\attrs.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\parse.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\spanned.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\lib.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\attrs.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\doc_comments.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\parse.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\spanned.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\ty.rs:
